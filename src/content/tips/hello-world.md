@@ -2,7 +2,7 @@
 title: "Hello World"
 pubDate: 2024-09-23
 description: " Hello this is my first recommendation"
-image: https://api.lorem.space/image/game?w=150&h=220
+image: https://i.imgur.com/QkIa5tT.jpeg
 tags: ["astro", "javascript"]
 layout: "../../layouts/Posts.astro"
 ---
